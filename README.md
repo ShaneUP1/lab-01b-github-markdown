@@ -3,3 +3,8 @@
 1) Use 'mkdir' to create the first diretory
 1) Use 'cd' to switch directories into the one you just created
 1) Use 'touch' to create the files within the directory
+
+## Here's a medium header
+### And a tiny header
+***italics***
+**bold**
